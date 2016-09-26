@@ -1,0 +1,240 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2056895248",
+  "source": {
+   "name": "Question 1",
+   "showName": false,
+   "instructions": "**Which two of the following are legal requirements of data holders**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "_id": "d3800714-e555-d2b6-4ecd-b08929bb6295",
+     "correct": false,
+     "answer": "Data must be stored in a database"
+    },
+    {
+     "_id": "48da4a10-45e6-f11e-4cb6-5e2df904a0cf",
+     "correct": false,
+     "answer": "Data must be held no longer than twelve months"
+    },
+    {
+     "_id": "934c5d52-7e9d-0891-7414-5279ae9a28cf",
+     "correct": true,
+     "answer": "Data must be processed fairly"
+    },
+    {
+     "_id": "dfddacc3-e84e-ee94-44c7-a99345b87a8d",
+     "correct": true,
+     "answer": "Data must be accurate and up to date"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2223006249",
+  "source": {
+   "name": "Question2",
+   "showName": false,
+   "instructions": "**A person who has data stored about them is called a…**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "894c4e8e-448c-9ac0-f7b8-6abe936ac36b",
+     "correct": false,
+     "answer": "data object"
+    },
+    {
+     "_id": "7c4e20f5-5ba8-3b18-9f00-73c129b08ecc",
+     "correct": true,
+     "answer": "data subject"
+    },
+    {
+     "_id": "53557aee-dcf6-19f7-5954-aa83d99fed23",
+     "correct": false,
+     "answer": "data item"
+    },
+    {
+     "_id": "05aa06a4-69fb-427a-1dfe-c6eeab9150ea",
+     "correct": false,
+     "answer": "data user"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2000464685",
+  "source": {
+   "name": "Question 3",
+   "showName": false,
+   "instructions": "**How many types of offences are contained in the Computer Misuse Act?**\n",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "4e2047b7-5071-980c-4bad-f5ae6f4c986e",
+     "correct": false,
+     "answer": "1"
+    },
+    {
+     "_id": "b4421afd-ce15-c3df-727e-72f30c70841b",
+     "correct": false,
+     "answer": "2"
+    },
+    {
+     "_id": "a45172a8-cbda-665e-7ec5-ad3c06d4c44d",
+     "correct": true,
+     "answer": "3"
+    },
+    {
+     "_id": "3c696c09-8c15-9f96-ae38-f6e0da68bed4",
+     "correct": false,
+     "answer": "4"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3055663889",
+  "source": {
+   "name": "Question 4",
+   "showName": false,
+   "instructions": "**Using another person’s password to log into their account is covered in the act by…**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "correct": true,
+     "answer": "Unauthorised access to computer material",
+     "_id": "767e5a15-1fb5-423a-87e3-f007508c3116"
+    },
+    {
+     "answer": "Unauthorised access with intent to commit further offences",
+     "correct": false,
+     "_id": "2d4811cd-01b3-d7f1-dd10-3a6459340d63"
+    },
+    {
+     "answer": "Unauthorised destruction of software or data",
+     "correct": false,
+     "_id": "77c31353-62c0-26f6-d713-69983f89677c"
+    },
+    {
+     "answer": "Unauthorised use of computer equipment",
+     "correct": false,
+     "_id": "c605b031-25b7-7f5f-de3c-aafde9742482"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1040706007",
+  "source": {
+   "name": "Question 5",
+   "showName": false,
+   "instructions": "**Accessing a computer to find personal details in order steal credit card numbers to commit fraud is covered in the act by…**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "Unauthorised destruction of software or data",
+     "correct": false,
+     "_id": "4ecb4c3f-b29a-63bf-7424-ee6235e1aa95"
+    },
+    {
+     "answer": "Unauthorised access to computer material",
+     "correct": false,
+     "_id": "4d27e2d7-4386-099c-f674-85c6b6fe52cc"
+    },
+    {
+     "answer": "Unauthorised use of computer equipment",
+     "correct": false,
+     "_id": "9b06409b-adbd-c85c-7be7-850367aa2b58"
+    },
+    {
+     "correct": true,
+     "answer": "Unauthorised access with intent to commit further offences",
+     "_id": "ba4017f3-d4e6-112f-2d2f-7eea44b25d64"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-746485947",
+  "source": {
+   "name": "Question 6",
+   "showName": false,
+   "instructions": "**The Copyright Designs and Patents Act 1988 prevents a user from…**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "correct": true,
+     "answer": "Accessing someone’s computer without their permission",
+     "_id": "1801cfcd-e8c4-96b6-4f8e-c0c42c03bc59"
+    },
+    {
+     "answer": "Storing a person’s personal information insecurely",
+     "correct": false,
+     "_id": "e6863b9c-d2e3-71da-b732-0983a283c16f"
+    },
+    {
+     "answer": "Storing a person’s personal information longer than is necessary",
+     "correct": false,
+     "_id": "57860b76-3d06-c44e-f4dc-b5638b201af2"
+    },
+    {
+     "answer": "Using someone else’s work without their permission",
+     "correct": false,
+     "_id": "4ef5b321-3a80-4a0a-a544-09c42f9fbe6e"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-73352898",
+  "source": {
+   "name": "Question 7",
+   "showName": false,
+   "instructions": "**The right of access to information held by public authorities is covered by…**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "The Data Protection Act 1998",
+     "correct": false,
+     "_id": "e02cf6a1-5b99-09ca-1417-9b245f67a4b7"
+    },
+    {
+     "answer": "The Computer Misuse Act 1990",
+     "correct": false,
+     "_id": "83f1bb4b-f3e6-5be2-6653-82f0e84be6f7"
+    },
+    {
+     "correct": true,
+     "answer": "Freedom of Information Act 2000",
+     "_id": "97d79819-0314-adc1-167b-638249dc4270"
+    },
+    {
+     "answer": "Copyright Designs and Patents Act 1988",
+     "correct": false,
+     "_id": "ec283587-f66b-590b-9072-29dde9b8cd34"
+    }
+   ]
+  }
+ }
+]

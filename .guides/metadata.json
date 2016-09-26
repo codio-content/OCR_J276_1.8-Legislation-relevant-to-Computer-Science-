@@ -1,0 +1,95 @@
+{
+ "sections": [
+  {
+   "id": "e169c063-5fd6-20bf-d0de-87cd50ac5355",
+   "title": "Legislation relevant to Computer Science ",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Legislation-relevant-to-Computer-Science--e169.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "073ca90d-9ce4-fac7-b756-c3f4eb75eed8",
+   "title": "Data Protection Act 1998",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Data-Protection-Act-1998-073c.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "fadf43c1-f4a4-1ae5-5960-9483d94de771",
+   "title": "Computer Misuse Act 1990",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Computer-Misuse-Act-1990-fadf.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "20cfe742-d90e-e15e-32bd-638eeebd62b8",
+   "title": "Copyright Designs and Patents Act 1988",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Copyright-Designs-and-Patents-Act-1988-20cf.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "39b337e0-a058-53eb-d31e-7d92812027ef",
+   "title": "Creative Commons Licensing",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Creative-Commons-Licensing-39b3.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "24cc1484-bc0a-e0c2-eee2-fad6d058b8a5",
+   "title": "Freedom of Information Act 2000",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Freedom-of-Information-Act-2000-24cc.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "0f316e17-66c9-e3a7-edd3-cfb774ea5bed",
+   "title": "Summary",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Summary-0f31.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "cf3c26b7-84dd-4b38-e179-ee8795e6329d",
+   "title": "Questions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Questions-cf3c.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
