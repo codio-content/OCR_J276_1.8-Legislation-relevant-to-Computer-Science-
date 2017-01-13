@@ -181,24 +181,24 @@
    "multipleResponse": false,
    "answers": [
     {
+     "_id": "1801cfcd-e8c4-96b6-4f8e-c0c42c03bc59",
+     "correct": false,
+     "answer": "Accessing someone’s computer without their permission"
+    },
+    {
+     "_id": "e6863b9c-d2e3-71da-b732-0983a283c16f",
+     "correct": false,
+     "answer": "Storing a person’s personal information insecurely"
+    },
+    {
+     "_id": "57860b76-3d06-c44e-f4dc-b5638b201af2",
+     "correct": false,
+     "answer": "Storing a person’s personal information longer than is necessary"
+    },
+    {
+     "_id": "4ef5b321-3a80-4a0a-a544-09c42f9fbe6e",
      "correct": true,
-     "answer": "Accessing someone’s computer without their permission",
-     "_id": "1801cfcd-e8c4-96b6-4f8e-c0c42c03bc59"
-    },
-    {
-     "answer": "Storing a person’s personal information insecurely",
-     "correct": false,
-     "_id": "e6863b9c-d2e3-71da-b732-0983a283c16f"
-    },
-    {
-     "answer": "Storing a person’s personal information longer than is necessary",
-     "correct": false,
-     "_id": "57860b76-3d06-c44e-f4dc-b5638b201af2"
-    },
-    {
-     "answer": "Using someone else’s work without their permission",
-     "correct": false,
-     "_id": "4ef5b321-3a80-4a0a-a544-09c42f9fbe6e"
+     "answer": "Using someone else’s work without their permission"
     }
    ]
   }
