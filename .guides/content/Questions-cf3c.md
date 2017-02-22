@@ -30,7 +30,7 @@ Unauthorised access with intent to commit further offences
 {Check It!|assessment}(multiple-choice-746485947)
 |||guidance
 # Solution
-Accessing someone’s computer without their permission
+Using someone else’s work without their permission
 |||
 {Check It!|assessment}(multiple-choice-73352898)
 |||guidance
